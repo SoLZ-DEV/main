@@ -1,0 +1,11 @@
+[
+    {
+        "script":"sz-warehouse",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"sz-test",
+        "version":"1.0.0"
+    }
+]
