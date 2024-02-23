@@ -5,7 +5,7 @@
     },
 
     {
-        "script":"sz-script",
+        "script":"sz-emergencyhub",
         "version":"1.0.0"
     }
 ]
