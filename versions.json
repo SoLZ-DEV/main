@@ -3,9 +3,12 @@
         "script":"sz-warehouses",
         "version":"1.1.0"
     },
-
     {
-        "script":"sz-emergencyhub",
+        "script":"sz-emergencyhub-qb",
+        "version":"1.0.0"
+    },
+    {
+        "script":"sz-emergencyhub-esx",
         "version":"1.0.0"
     }
 ]
